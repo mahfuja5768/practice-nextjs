@@ -5,6 +5,7 @@ export const metadata = {
 
 
 export default function DashboardLayout({ children }) {
+    // throw new Error("Error occured in dashboard layout page");
   return (
     <>
       <div>
